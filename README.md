@@ -10,7 +10,7 @@
 
 **[Purple3D](https://3d.purple.com.ar)**: visualizador 3D de paneles de **steelframing** y **drywall**. Armado paso a paso, panelizado, control de faltantes y sobrantes y listado de corte exportable. Funciona en el navegador sin instalar nada.
 
-> ⚠️ Solo para visualizar. No reemplaza el plano ni el cálculo estructural.
+> ⚠️ Purple3D: Solo para visualizar. No reemplaza el plano ni el cálculo estructural.
 
 ## Empresas 🏢
 Todas las soluciones de **Purple** (PurpleMD, PurpleBoard y Purple3D) son software libre bajo **AGPL-3.0**: gratis para uso personal y para quienes cumplan con la licencia.
@@ -19,4 +19,8 @@ Si la necesitás en tu empresa, te ofrezco:
 - **Soporte**
 - **Integración con tu infraestructura**
 
-[purple.empresas@proton.me](mailto:purple.empresas@proton.me)
+## 📫 Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/ltrecanao) · 💜 [Purple](https://purple.com.ar)
+
+¿Consultas por licencias o soporte? Escribí a [purple.empresas@proton.me](mailto:purple.empresas@proton.me).
