@@ -19,6 +19,9 @@ Si la necesitás en tu empresa, te ofrezco:
 - **Soporte**
 - **Integración con tu infraestructura**
 
+## Desarrollo continuo y curación 🔁
+Estas herramientas están en **desarrollo continuo**. Gran parte del código y las soluciones se generan con asistencia de IA, y el software se va **curando y refinando** con el tiempo gracias al uso y al feedback.
+
 ## 📫 Contacto
 
 💼 [LinkedIn](https://www.linkedin.com/in/ltrecanao) · 💜 [Purple](https://purple.com.ar)
