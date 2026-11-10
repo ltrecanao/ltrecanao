@@ -8,7 +8,7 @@
 
 **[PurpleBoard](https://board.purple.com.ar)**: pizarra colaborativa peer-to-peer, open source y 100% estática. Creá notas, dibujá, conectá ideas y sumá imágenes mientras hablás con otras personas en tiempo real, sin backend y sin registro.
 
-**[Purple3D](https://3d.purple.com.ar)**: visualizador 3D de paneles de **steelframing** y **drywall**. Armado paso a paso, panelizado, control de faltantes y sobrantes y listado de corte exportable. Funciona en el navegador sin instalar nada.
+**[Purple3D](https://3d.purple.com.ar)**: visualizador 3D de paneles de **steelframing**, **drywall**, **woodframing**. Armado paso a paso, panelizado, control de faltantes y sobrantes y listado de corte exportable. Funciona en el navegador sin instalar nada.
 
 > ⚠️ Purple3D: Solo para visualizar. No reemplaza el plano ni el cálculo estructural.
 
