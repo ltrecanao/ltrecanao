@@ -10,7 +10,7 @@
 
 **[Purple3D](https://3d.purple.com.ar)**: visualizador 3D modular, precargado con componentes de **steelframing**, **drywall** y **woodframing**. Armado paso a paso, panelizado, control de faltantes y sobrantes y listado de corte exportable. Funciona en el navegador sin instalar nada.
 
-> ⚠️ **Aviso**: Herramienta de visualización y planificación. No reemplaza planos ni cálculos estructurales.
+> ⚠️ **Aviso**: Los módulos y diseños generados son de carácter orientativo para la planificación. No reemplazan los planos ejecutivos ni el cálculo estructural definitivo.
 
 ## Empresas 🏢
 Todas las soluciones de **Purple** (PurpleMD, PurplePlan y Purple3D) son software libre bajo **AGPL-3.0**: gratis para uso personal y para quienes cumplan con la licencia.
