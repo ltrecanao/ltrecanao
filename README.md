@@ -1,6 +1,6 @@
 ## Hola, soy Lucas 👋
 
-**Cloud, Platform & AI Engineer.** Hace más de 5 años que doy soporte a equipos de desarrollo desde la capa middleware. Hoy me enfoco en IA y desarrollo mis propias soluciones en **[Purple](https://purple.com.ar)**.
+**Cloud, Platform & AI Engineer.** Hace más de 5 años que administro y doy soporte a equipos de desarrollo desde la capa middleware en **OpenShift**. En este espacio me enfoco en IA y desarrollo mis propias soluciones en **[Purple](https://purple.com.ar)**.
 
 ## Purple 💜
 
